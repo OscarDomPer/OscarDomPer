@@ -19,9 +19,8 @@ Mi nombre es Óscar Domínguez Pereira, y soy biólogo y Data Scientist Junior a
 
 ## Tecnologías que domino
 
-### 💻 Lenguajes de Programación
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### 💻 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+      ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![LateX](https://img.shields.io/badge/-LateX-008080?style=flat&logo=latex&logoColor=white)
 
