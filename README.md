@@ -11,11 +11,11 @@
 - 🌎 **Ecosystem Modeling**: Exploring environmental data to better understand ecosystem dynamics.
 - 🧬 **Bioinformatics**: Developing tools for the analysis of genetic and proteomic sequences.
 
-## :computer: Programming languages and tools:
+
 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OscarDomPer&show_icons=true&hide_border=true" />
-
+## :computer: Programming languages and tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
