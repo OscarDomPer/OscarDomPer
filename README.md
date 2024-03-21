@@ -13,7 +13,7 @@
 
 ## :computer: Programming languages and tools:
 
-<p>
+
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -37,7 +37,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
-</p>
+
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OscarDomPer&show_icons=true&hide_border=true" />
 
