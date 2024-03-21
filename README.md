@@ -17,37 +17,31 @@ I'm Óscar Domínguez Pereira, a biologist and Junior Data Scientist passionate 
 
 #### :computer: Programming languages and tools:
 
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
-
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/markdown/markdown-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pandas/pandas-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/scipy/scipy-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/seaborn/seaborn-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/scikit-learn/scikit-learn-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/keras/keras-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/streamlit/streamlit-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg"></code>
+<p align="center">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/sql.svg" alt="SQL" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/markdown.svg" alt="Markdown" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/pandas.svg" alt="Pandas" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/numpy.svg" alt="Numpy" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/scipy.svg" alt="Scipy" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/matplotlib.svg" alt="Matplotlib" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/seaborn.svg" alt="Seaborn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/scikit-learn.svg" alt="Scikit-learn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/tensorflow.svg" alt="TensorFlow" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/keras.svg" alt="Keras" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/streamlit.svg" alt="Streamlit" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/mysql.svg" alt="MySQL" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/bigquery.svg" alt="BigQuery" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/pyspark.svg" alt="PySpark" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/git.svg" alt="Git" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/github.svg" alt="GitHub" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jupyter.svg" alt="Jupyter" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/slack.svg" alt="Slack" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/discord.svg" alt="Discord" style="vertical-align:top; margin:4px">
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+
+<sub>(https://github.com/OscarDomPer/OscarDomPer/blob/master/cover_image.jpg)</sub>
 
 
 
