@@ -7,7 +7,7 @@
 
 ## Projects
 
-- 📊 **Gene Expression Analysis**: Using machine learning techniques to identify patterns in gene expression data.
+- 📊 **Riesgo de incendios**: [App incendios](https://incendiosapp.streamlit.app/)
 - 🌎 **Ecosystem Modeling**: Exploring environmental data to better understand ecosystem dynamics.
 - 🧬 **Bioinformatics**: Developing tools for the analysis of genetic and proteomic sequences.
 
