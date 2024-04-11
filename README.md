@@ -7,9 +7,9 @@
 
 ## Projects
 
-- 📊 **Riesgo de incendios**: [App incendios](https://incendiosapp.streamlit.app/)
-- 🌎 **Ecosystem Modeling**: Exploring environmental data to better understand ecosystem dynamics.
-- 🧬 **Bioinformatics**: Developing tools for the analysis of genetic and proteomic sequences.
+- 🎬 [La influencia de España en el cine español](https://github.com/OscarDomPer/Cine_Esp/blob/main/README.md)
+- 🔥 [Riesgo de incendios](https://incendiosapp.streamlit.app/) Currently under construction.
+- 🍇 **More Coming Soon**
 
 ## :computer: Programming languages and tools:
 
