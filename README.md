@@ -10,7 +10,7 @@
 - 🎬 [La influencia de España en el cine español](https://github.com/OscarDomPer/Cine_Esp/blob/main/README.md)
 - 🔥 [Riesgo de incendios](https://github.com/OscarDomPer/Incendios/blob/main/README.md) 
 - 🔥 [Riesgo de incendios Web App](https://riesgoincendios.streamlit.app/)
-- 🍇 [Extracción automatizada de información en facturas](https://github.com/OscarDomPer/extraccion_facturas/blob/main/README.md)
+- 🧾 [Extracción automatizada de información en facturas](https://github.com/OscarDomPer/extraccion_facturas/blob/main/README.md)
 
 ## :computer: Programming languages and tools:
 
